@@ -3,7 +3,8 @@
 I am a junior level developer and still learning coding in general. :)
 </br></br>
 
-I am currently decently well in</br>
+I am currently decently well in</br></br>
+
  • TypeScript ⌨️</br>
  • JavaScript ☕️</br>
  • Python 🐍</br>
